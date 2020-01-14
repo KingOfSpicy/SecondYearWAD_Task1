@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheWeiHsu_WADTask1", "CheWeiHsu_WADTask1\CheWeiHsu_WADTask1.csproj", "{A8A6B6EB-32A7-454A-8957-1DAAD00FEEB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A6B6EB-32A7-454A-8957-1DAAD00FEEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A6B6EB-32A7-454A-8957-1DAAD00FEEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A6B6EB-32A7-454A-8957-1DAAD00FEEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A6B6EB-32A7-454A-8957-1DAAD00FEEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3AA421-8B5B-4D09-8011-0D9B9D9D36B4}
+	EndGlobalSection
+EndGlobal
